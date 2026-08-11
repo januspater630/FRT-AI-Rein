@@ -1,12 +1,8 @@
----
-
 # 🐎 FRT-AI-Rein
 
 ## Most AI tells you plausible lies. We refuse.
 
 > Most LLMs fabricate answers with confidence, pretend to execute, pretend to search — and leave you paying for their hallucinations. FRT-AI-Rein does not do that. We do not promise "smarter." We promise "trustworthy" — an output counts only after it has been verified, signed, and accepted.
-
----
 
 ## What it does
 
